@@ -1,7 +1,12 @@
 aid: scana
-url: https://raw.githubusercontent.com/api-evangelist/scana/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/scana/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.scana.com
+description: >-
+  SCANA Corporation was an energy holding company whose primary subsidiaries provided
+  electric and natural gas service in South Carolina, North Carolina, and Georgia
+  before being acquired by Dominion Energy.
