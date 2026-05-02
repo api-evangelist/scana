@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "scana": "https://www.scanaenergy.com/vocabulary/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "SCANACorporation": {
+      "@id": "scana:Corporation",
+      "@type": "schema:Corporation"
+    },
+    "SCANASubsidiary": {
+      "@id": "scana:Subsidiary",
+      "@type": "schema:Organization"
+    },
+    "EnergyUtility": {
+      "@id": "scana:EnergyUtility",
+      "@type": "schema:Utility"
+    },
+
+    "name": {
+      "@id": "schema:name",
+      "@type": "xsd:string"
+    },
+    "description": {
+      "@id": "schema:description",
+      "@type": "xsd:string"
+    },
+    "parentOrganization": {
+      "@id": "schema:parentOrganization",
+      "@type": "@id"
+    },
+    "subsidiary": {
+      "@id": "schema:subOrganization",
+      "@type": "@id"
+    },
+    "foundingDate": {
+      "@id": "schema:foundingDate",
+      "@type": "xsd:date"
+    },
+    "dissolutionDate": {
+      "@id": "schema:dissolutionDate",
+      "@type": "xsd:date"
+    },
+    "areaServed": {
+      "@id": "schema:areaServed",
+      "@type": "xsd:string"
+    },
+    "numberOfCustomers": {
+      "@id": "scana:numberOfCustomers",
+      "@type": "xsd:integer"
+    },
+    "serviceType": {
+      "@id": "schema:serviceType",
+      "@type": "xsd:string"
+    },
+    "address": {
+      "@id": "schema:address",
+      "@type": "schema:PostalAddress"
+    },
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    }
+  }
+}

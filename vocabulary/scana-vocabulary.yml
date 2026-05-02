@@ -1,0 +1,90 @@
+name: SCANA Corporation
+description: >-
+  Vocabulary for SCANA Corporation, a former American regulated electric and natural gas
+  utility company acquired by Dominion Energy in 2019. Documents energy utility industry
+  terminology relevant to SCANA's operations in South Carolina, North Carolina, and Georgia.
+created: '2026-05-02'
+modified: '2026-05-02'
+terms:
+  - term: SCANA Corporation
+    definition: >-
+      A former American regulated electric and natural gas public utility headquartered
+      in Cayce, South Carolina. SCANA was acquired by Dominion Energy in January 2019
+      and its subsidiaries (SCE&G, PSNC Energy) were rebranded under Dominion Energy.
+    tags:
+      - Company History
+      - Energy Utility
+
+  - term: SCE&G
+    definition: >-
+      South Carolina Electric & Gas Company - SCANA's primary subsidiary that provided
+      electric service to approximately 660,000 customers and natural gas service to
+      over 370,000 customers in South Carolina. Now operating as Dominion Energy South Carolina.
+    tags:
+      - Electric Utility
+      - Natural Gas
+      - South Carolina
+
+  - term: PSNC Energy
+    definition: >-
+      Public Service Company of North Carolina - SCANA subsidiary that provided natural
+      gas service to more than 525,000 customers in North Carolina. Now operating under
+      Dominion Energy North Carolina.
+    tags:
+      - Natural Gas
+      - North Carolina
+
+  - term: SCANA Energy
+    definition: >-
+      SCANA Energy Natural Gas - a retail natural gas marketer serving residential and
+      commercial customers in Georgia. Continues to operate after the Dominion Energy
+      acquisition as a competitive natural gas retailer.
+    tags:
+      - Georgia
+      - Natural Gas
+      - Retail Energy
+
+  - term: V.C. Summer Nuclear Station
+    definition: >-
+      A nuclear power plant in Fairfield County, South Carolina operated by SCE&G.
+      An abandoned expansion project (Units 2 & 3) was a major factor in SCANA's
+      acquisition by Dominion Energy due to cost overruns.
+    tags:
+      - Energy Generation
+      - Nuclear
+      - South Carolina
+
+  - term: Regulated Utility
+    definition: >-
+      An energy company operating under state public utility commission oversight with
+      rates and service territories defined by regulation. SCANA's core operations were
+      regulated utilities in South Carolina and North Carolina.
+    tags:
+      - Energy
+      - Regulation
+
+  - term: Integrated Resource Plan
+    definition: >-
+      A long-term plan submitted to state regulators describing how a utility will meet
+      projected electricity demand through a mix of generation, transmission, and
+      demand-side management resources.
+    tags:
+      - Planning
+      - Regulation
+
+  - term: Fortune 1000
+    definition: >-
+      SCANA Corporation was a Fortune 1000 company, ranking among the top 1000 largest
+      US companies by revenue prior to its acquisition by Dominion Energy.
+    tags:
+      - Business
+      - Classification
+
+  - term: Dominion Energy
+    definition: >-
+      The current parent company of SCANA Corporation's former assets. Dominion Energy
+      acquired SCANA in January 2019, making it one of the largest producers and
+      distributors of energy in the United States.
+    tags:
+      - Acquisition
+      - Energy Utility
