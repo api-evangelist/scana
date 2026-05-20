@@ -25,6 +25,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/scana
   - type: Website
     url: https://www.scanaenergy.com/
   - type: Wikipedia
