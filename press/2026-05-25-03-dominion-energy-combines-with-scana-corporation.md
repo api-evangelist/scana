@@ -1,7 +1,9 @@
 ---
 title: Dominion Energy Combines With SCANA Corporation
 url: https://www.prnewswire.com/news-releases/dominion-energy-combines-with-scana-corporation-300771751.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SCANA" press release artificial intelligence'
 position: 3
 source: serpapi-google

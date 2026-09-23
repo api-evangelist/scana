@@ -1,7 +1,9 @@
 ---
 title: 'UPDATE: Long-term effects Of SCANA & Dominion merger'
 url: https://www.wrdw.com/content/news/Dominion-Energy-and-SCANA-combine-503800961.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SCANA" press release artificial intelligence'
 position: 2
 source: serpapi-google
