@@ -1,5 +1,5 @@
 aid: scana
-name: SCANA Corporation
+name: SCANA
 description: >-
   SCANA Corporation was an American regulated electric and natural gas public utility
   headquartered in Cayce, South Carolina. Its primary subsidiaries included South Carolina
@@ -66,3 +66,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: SCANA Corporation
